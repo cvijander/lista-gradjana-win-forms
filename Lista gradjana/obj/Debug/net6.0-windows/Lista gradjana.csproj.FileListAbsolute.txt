@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\bin\Debug\net6.0-windows\Lista gradjana.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\bin\Debug\net6.0-windows\Lista gradjana.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\bin\Debug\net6.0-windows\Lista gradjana.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\bin\Debug\net6.0-windows\Lista gradjana.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\bin\Debug\net6.0-windows\Lista gradjana.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista_gradjana.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\refint\Lista gradjana.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\Lista gradjana.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Lista gradjana\Lista gradjana\obj\Debug\net6.0-windows\ref\Lista gradjana.dll
